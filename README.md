@@ -1,0 +1,1 @@
+Egyszerű csapatsport nyilvántartó alkalmazás
